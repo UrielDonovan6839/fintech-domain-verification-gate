@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+*.md linguist-documentation=true
+package-lock.json linguist-generated=true
